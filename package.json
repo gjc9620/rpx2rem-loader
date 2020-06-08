@@ -1,5 +1,5 @@
 {
-  "name": "rpx2rem-loader",
+  "name": "postcss-rpx2rem-loader",
   "version": "0.0.1",
   "dependencies": {
     "postcss": "^7.0.6"
